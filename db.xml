@@ -1,0 +1,11 @@
+<addressBook>
+	<user id="1">
+		<login>user1</login>
+		<password>p1</password>
+	</user>
+
+	<user id="2">
+		<login>user2</login>
+		<password>p2</password>
+	</user>
+</addressBook>
